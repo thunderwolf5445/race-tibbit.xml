@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="race-tibbit.xml" url="https://mfov.magehandpress.com/2016/12/tibbit.html" />
+			<file name="race-tibbit.xml" url="https://github.com/thunderwolf5445/race-tibbit.xml/blob/main/race-tibbit.xml" />
 		</update>
 	</info>
 	<element name="Tibbit" type="Race" source="Mage Hand Press" id="ID_MHP_RACE_TIBBIT">
