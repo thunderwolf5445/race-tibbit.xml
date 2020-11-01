@@ -92,7 +92,7 @@
 			<description>Whenever you make a death saving throw, you can add your proficiency bonus to the roll.</description>
 		</sheet>
 	</element>
-    <element name="Feline Form" type="Racial Trait" source="Mage Hand Press" id="ID_MHP_RACIAL_TRAIT_TIBBIT_FELINE_FORM">
+    	<element name="Feline Form" type="Racial Trait" source="Mage Hand Press" id="ID_MHP_RACIAL_TRAIT_TIBBIT_FELINE_FORM">
 		<description>
 			<p>You can use your action to transform into a cat. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die. While you are transformed, the following rules apply:
      			<p class="indent">Your game statistics are replaced by the cat’s statistics, but you retain your alignment, personality, hit points, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, and also gain those of the cat. If the cat has the same proficiency as you and the bonus in its stat block is higher than yours, use the cat’s bonus instead of yours.
