@@ -44,11 +44,11 @@
 			<p class="indent"><strong><em>Feline Speech.</em></strong> You have the ability to speak to and understand cats. Of course, cats can choose to simply ignore you, as they are wont to do. (likely to do)</p>
 			<p class="indent"><strong><em>Nine Lives.</em></strong> Whenever you make a death saving throw, you can add your proficiency bonus to the roll.</p>
 			<p class="indent"><strong><em>Feline Form.</em></strong> You can use your action to transform into a cat. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die. While you are transformed, the following rules apply:
-     			<p class="indent">Your game statistics are replaced by the cat’s statistics, but you retain your alignment, personality, hit points, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, and also gain those of the cat. If the cat has the same proficiency as you and the bonus in its stat block is higher than yours, use the cat’s bonus instead of yours.
-     			<p class="indent">You can add your proficiency bonus to the cat’s attack and damage rolls.
+     		<p class="indent">Your game statistics are replaced by the cat’s statistics, but you retain your alignment, personality, hit points, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, and also gain those of the cat. If the cat has the same proficiency as you and the bonus in its stat block is higher than yours, use the cat’s bonus instead of yours.
+     		<p class="indent">You can add your proficiency bonus to the cat’s attack and damage rolls.
 			<p class="indent">You can’t cast spells, speak, or take any action that a cat cannot. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you’ve already cast.
-	     		<p class="indent">You retain the benefit of any features from your class, race, or other source and can use them if a cat is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision.
-	     		<p class="indent">When you transform, your equipment merges with your cat form, and has no effect until you leave the form.</p>
+	     	<p class="indent">You retain the benefit of any features from your class, race, or other source and can use them if a cat is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision.
+	     	<p class="indent">When you transform, your equipment merges with your cat form, and has no effect until you leave the form.</p>
 			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common.</p>
 		</description>
 		<setters>
