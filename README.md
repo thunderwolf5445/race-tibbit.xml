@@ -1,4 +1,4 @@
-race-tibbit.xml
+#race-tibbit.xml
 By adding this file to the default sources/file paths of the Aurora D&D Character Builder this adds the Tibbit race from Mage Hand Press: Middle Finger of Vecna (MFOV)
 
 link to MFOV - https://mfov.magehandpress.com/
